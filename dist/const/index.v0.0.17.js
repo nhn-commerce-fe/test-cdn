@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_shopby_vanilla_components=self.webpackChunk_shopby_vanilla_components||[]).push([[457],{3683:(s,e,n)=>{n.d(e,{k:()=>o});const o={MALL:"@shopby-skin-event:query-mall",PRODUCT_DETAIL:"@shopby-skin-event:query-product-detail"}}},s=>{s(s.s=3683)}]);
